@@ -1,0 +1,16 @@
+ *{
+    background-color: beige;
+    text-align: left;
+ }
+ h1,h2,h3 {
+    color: darkred;
+    text-align: center;
+}
+p,ul,ol{
+    color: darkgreen;
+    font: optional;stroke: none;
+
+}
+h4{
+    color: darkred;
+}

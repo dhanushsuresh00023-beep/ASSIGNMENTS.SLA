@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    background-color: burlywood;
+} 
+ h1{
+    color: blueviolet;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+.info {
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+}
+#style2{
+    color: blue;
+    background-color: blanchedalmond;
+    text-align: center;
+}
